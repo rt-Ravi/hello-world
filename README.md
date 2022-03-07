@@ -1,1 +1,1 @@
-this is my first git repository in git hub
+this is my first git repository in gitHub
